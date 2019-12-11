@@ -1,11 +1,9 @@
 /**
  * @license
- * Copyright (c) 2018 The Polymer Project Authors. All rights reserved.
- * This code may only be used under the BSD style license found at http://polymer.github.io/LICENSE.txt
- * The complete set of authors may be found at http://polymer.github.io/AUTHORS.txt
+ * Copyright (c) 2018 TBD. All rights reserved.
+ * This code is licensed under the GPLv2 style license found at https://github.com/cedricpriestley/p-ide/blob/master/LICENSE
+ * The complete set of authors may be found at https://github.com/cedricpriestley/p-ide/blob/master/AUTHOR
  * The complete set of contributors may be found at http://polymer.github.io/CONTRIBUTORS.txt
- * Code distributed by Google as part of the polymer project is also
- * subject to an additional IP rights grant found at http://polymer.github.io/PATENTS.txt
  */
 
 // Import LitElement base class and html helper function
